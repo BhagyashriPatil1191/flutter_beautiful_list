@@ -32,45 +32,6 @@ assets/
 * Android Studio or VS Code
 * Android Emulator or Physical Device
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/beautiful-list-ui.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd beautiful-list-ui
-```
-
-Install dependencies:
-
-```bash
-flutter pub get
-```
-
-Run the application:
-
-```bash
-flutter run
-```
-
-## 📁 Project Structure
-
-```
-lib/
-├── data/
-│   └── item_data.dart
-├── models/
-│   └── item.dart
-├── screens/
-│   └── home_page.dart
-└── main.dart
-```
-
 ## 🛠️ Built With
 
 * Flutter
